@@ -4,6 +4,5 @@ add another line - there are two moons!
 i appreciate the cool climate 
 
 maybe we should put the base on one of the moons instead?
-<<<<<<< HEAD
 this resolves the conflict
 
